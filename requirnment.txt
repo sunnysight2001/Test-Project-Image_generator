@@ -1,0 +1,8 @@
+streamlit
+diffusers
+transformers
+torch
+safetensors
+accelerate
+Pillow
+opencv-python-headless
